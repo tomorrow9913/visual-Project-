@@ -1,0 +1,25 @@
+C:\Users\tomor\Desktop\visulal-project\visual_project-20193156\visual_project-20193156\bin\Debug\visual_project-20193156.exe.config
+C:\Users\tomor\Desktop\visulal-project\visual_project-20193156\visual_project-20193156\bin\Debug\visual_project-20193156.exe
+C:\Users\tomor\Desktop\visulal-project\visual_project-20193156\visual_project-20193156\bin\Debug\visual_project-20193156.pdb
+C:\Users\tomor\Desktop\visulal-project\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project-20193156.csprojAssemblyReference.cache
+C:\Users\tomor\Desktop\visulal-project\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project_20193156.Form1.resources
+C:\Users\tomor\Desktop\visulal-project\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project_20193156.Properties.Resources.resources
+C:\Users\tomor\Desktop\visulal-project\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project-20193156.csproj.GenerateResource.cache
+C:\Users\tomor\Desktop\visulal-project\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project-20193156.csproj.CoreCompileInputs.cache
+C:\Users\tomor\Desktop\visulal-project\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project-20193156.exe
+C:\Users\tomor\Desktop\visulal-project\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project-20193156.pdb
+C:\Users\tomor\Desktop\visulal-project\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project_20193156.Form2.resources
+C:\Users\tomor\Desktop\visulal-project\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project_20193156.setting.resources
+C:\Users\tomor\Desktop\visulal-project - 복사본\visual_project-20193156\visual_project-20193156\bin\Debug\visual_project-20193156.exe.config
+C:\Users\tomor\Desktop\visulal-project - 복사본\visual_project-20193156\visual_project-20193156\bin\Debug\visual_project-20193156.exe
+C:\Users\tomor\Desktop\visulal-project - 복사본\visual_project-20193156\visual_project-20193156\bin\Debug\visual_project-20193156.pdb
+C:\Users\tomor\Desktop\visulal-project - 복사본\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project-20193156.csprojAssemblyReference.cache
+C:\Users\tomor\Desktop\visulal-project - 복사본\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project_20193156.Form1.resources
+C:\Users\tomor\Desktop\visulal-project - 복사본\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project_20193156.Form2.resources
+C:\Users\tomor\Desktop\visulal-project - 복사본\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project_20193156.Properties.Resources.resources
+C:\Users\tomor\Desktop\visulal-project - 복사본\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project_20193156.setting.resources
+C:\Users\tomor\Desktop\visulal-project - 복사본\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project-20193156.csproj.GenerateResource.cache
+C:\Users\tomor\Desktop\visulal-project - 복사본\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project-20193156.csproj.CoreCompileInputs.cache
+C:\Users\tomor\Desktop\visulal-project - 복사본\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project-20193156.exe
+C:\Users\tomor\Desktop\visulal-project - 복사본\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project-20193156.pdb
+C:\Users\tomor\Desktop\visulal-project - 복사본\visual_project-20193156\visual_project-20193156\obj\Debug\visual_project_20193156.InGame.resources
